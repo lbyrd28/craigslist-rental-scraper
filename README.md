@@ -18,3 +18,5 @@ docker build -t test .
 docker run -dp 3000:3000 test
 ```
 3. View output in Docker Desktop app. You should now have a new email with suggested craigslist rental listings.
+
+(Extra: If you use gmail you must enable "Less Secure Apps". It is best to use a burner account instead of your primary email to send messages.)
